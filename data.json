@@ -1,0 +1,29 @@
+{
+    "extens": [
+        "@gmail.com", 
+        "@yahoo.com", 
+        "@outlook.com"
+	"proton.mail"
+
+    ]
+
+    ,
+
+    "names": [
+        "name1",
+        "name2",
+        "name3"
+    
+    
+    ]
+    
+    ,
+
+    "surnames": [
+        "surname1",
+        "surname2",
+        "surname3"
+
+
+    ]
+}
